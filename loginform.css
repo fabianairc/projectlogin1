@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+}
+.btn {
+  border: none;
+  background-color: blueviolet;
+  width: 10%;
+  height: 30px;
+  color: white;
+  font-size: medium;
+}
